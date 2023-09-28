@@ -1,12 +1,16 @@
 body {
   font-family: "Open Sans", sans-serif;
-  text-align: end;
+  text-align: center;
   margin: 0;
 }
 
 #hero {
     width: 592px;
-    margin: 72px;
+    margin: 0px auto 72px;
+}
+
+#hero img {
+margin-bottom: 72px;
 }
 
 img {
